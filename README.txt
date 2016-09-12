@@ -1,0 +1,3 @@
+This is a text adventure game (interactive fiction) that is based off of the anime/manga SkipBeat. It is fan fiction and all of the characters are Yoshiki Nakamura’s, not my own.
+
+It follows typical text adventure commands…
