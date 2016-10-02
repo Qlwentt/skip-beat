@@ -1,0 +1,3 @@
+
+module SkipBeat
+end
